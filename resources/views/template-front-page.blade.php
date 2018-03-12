@@ -148,7 +148,7 @@
           <div class="uk-width-medium-1-3">
             <a class="uk-panel tm-panel-link" href="https://twitter.com/getuikit">
               <div class="tm-icon">
-                <i class="uk-icon-superpowers uk-icon-large"></i>
+                <i class="uk-icon-github-alt uk-icon-large"></i>
               </div>
               <h2>Progressive Design</h2>
               <p>We’ve abandoned the traditional process of wireframes and Photoshop mockups. Responsive Web Design renders
