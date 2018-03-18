@@ -195,8 +195,9 @@ function my_acf_settings_dir( $dir ) {
 // 4. Include ACF
 include_once( get_stylesheet_directory() . '/acf/acf.php' );
 });
+
 // Enable shortcodes in widgets
-add_filter( 'widget_text', 'shortcode_unautop' );
-add_filter('widget_text', 'do_shortcode');
+add_filter( 'widget_html', 'shortcode_unautop' );
+add_filter('widget_html', 'do_shortcode');
 
 

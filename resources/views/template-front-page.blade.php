@@ -203,12 +203,12 @@
           </div>
           <div class="uk-width-medium-1-4">
             <div class="notification">
-              <h2>ExpressJS</h2>
+              <h2>KeystoneJS</h2>
             </div>
-            <img src="@asset('images/express-min.png')" alt="ExpressJS" uk-cover>
+            <img src="@asset('images/keystone-min.jpg')" alt="ExpressJS" uk-cover>
             <p>
-              Express JS is one of the fastest growing web frameworks and many popular web companies like Koding and Prismatic are using
-              it in their enterprises. Express.js and Node.js have given JavaScript a back-end functionality, allowing developers
+              Keystone JS is one of the fastest growing web frameworks and many popular web companies like Koding and Prismatic are using
+              it in their enterprises. Keystone.js and Node.js have given JavaScript a back-end functionality, allowing developers
               to build software with JavaScript on the server side. It has a powerful middleware and routing functionality
               to aid devleopment of complex applications and capabilties to build a wide range of applications from a single
               page to Hybrid Mobile app.

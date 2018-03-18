@@ -162,49 +162,11 @@
             <p class="uk-text-large uk-text-lead">A Custom Built Mobile Application For Small Businesses at a fraction of the price of traditional development costs.</p> 
             <div class="uk-width-large videoWrapper">
            <iframe width="560" height="315" src="https://www.youtube.com/embed/DsP88THGTLE?wmode=transparent" scrolling="no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
       </div>
-<div>
-      <div class="tm-section tm-section-color-white">
-            <div class="uk-container uk-container-center uk-text-center">
-            <h1 class="tm-margin-large-bottom">Why Choose Us?</h1>
-             <hr class="uk-divider">
-            <p class="uk-text-large uk-text-lead">Three reasons why you should choose us for your project.</p>
-               <div class="uk-grid tm-grid-margin-large" data-uk-grid-match="{target:'.uk-panel'}" data-uk-grid-margin>
-                    <div class="uk-width-medium-1-3">
-                        <a class="uk-panel tm-panel-link" href="#">
-                            <div class="tm-icon"><i class="uk-icon-check uk-icon-large"></i></div>
-                            <h2>Cost Effective</h2>
-                            <p>It is not about the number of features that a particular framework provides. It’s about the actual functionality of
-                            the framework and how this can be utilised within your own web application development project. So we choose one of
-                            the frameworks as per your project needs to save time and cost. We produce applications and web properties optimised
-                            for time, speed of production, resource lightness and cost effectiveness.</p>
-                        </a>
-                    </div>
-                     <div class="uk-width-medium-1-3">
-                        <a class="uk-panel tm-panel-link" href="#">
-                            <div class="tm-icon"><i class="uk-icon-check uk-icon-large"></i></div>
-                            <h2>Reliabilty</h2>
-                              <p>We use agile build methods and frameworks to speed up the process of building your app or site. The methods used are
-                              tried and tested by millions of enthusiastic and dedicateed coders and we avoid untested technologies or methods which
-                              consume a lot of time for little reward. Our approach of building for all or at least most devices ensures that your
-                             app or site will gain the maximun exposure online and keep you competitive</p>
-                        </a>
-                    </div>
-                     <div class="uk-width-medium-1-3">
-                        <a class="uk-panel tm-panel-link" href="#">
-                            <div class="tm-icon"><i class="uk-icon-check uk-icon-large"></i></div>
-                            <h2>Speed</h2>
-                           <p>Using frameworks helps us to achieve the fastest and most effective results for your project. It ensures that time
-                           is not wasted on expensive and outdated methodolgy. Many of these provide libraries for database access, user management,
-                           templating systems, session management, and often promote code reuse to maximise effeciency. We pay close attention
-                           to the load times of your app or site and these are optimised.</p>
-                        </a>
-                    </div>
-                 </div>
-              </div>
-        </div> 
-    <div class="tm-section tm-section-color-white jumbotron">
+    </div>
+  </div>
+
+<div class="tm-section tm-section-color-white jumbotron">
        <div class="uk-container uk-container-center uk-text-center uk-container-small">
         <h1>Order Your App Now!</h1>
         <p class="uk-text-large uk-text-lead">
