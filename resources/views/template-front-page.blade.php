@@ -7,7 +7,7 @@
 <section class="features1">
     <div class="tm-section tm-section-color-white">
       <div class="uk-container uk-container-center uk-text-center top">
-        <h1 class="tm-margin-large-bottom"> What We Do</h1>
+        <h1 class="tm-margin-large-bottom"> Introduction</h1>
         <hr class="uk-divider">
         <p class="uk-text-large uk-text-lead">We build and produce web and ecommerce applications for small businesses from a mobile centric perspective.</p>
         <div class="uk-grid tm-grid-margin-large" data-uk-grid-match="{target:'.uk-panel'}" data-uk-grid-margin>
@@ -80,17 +80,16 @@
                 built application or site can increase their web presence if done correctly. Search Engines now detect a
                 users device and return results for that search optimised for it, so having a mobile application or site
                 alone can result in a higher ranking than many competitors, often alleviating the need for expensive SEO
-                tactics. Check out our Progressive Web Application which is priced well below most SEO budgets alone!</p>
+                tactics.</p>
             </a>
           </div>
           <div class="uk-width-medium-1-3">
             <a class="uk-panel tm-panel-link" href="https://plus.google.com/communities/114238665434626719878">
               <div class="tm-icon">
-                <i class="uk-icon-google-plus uk-icon-large"></i>
+                <i class="uk-icon-bold uk-icon-large"></i>
               </div>
-              <h2>More</h2>
-              <p>If you're interested in discussing, participating and helping each other, the UIkit Google+ community is the
-                place to be.</p>
+              <h2>Brand Design</h2>
+              <p>With a well designed user interface you can aquire customers interested in the features offered by your company. Your app or site represents your brand in the eyes of smartphone users. For example, your logo inside the app ensures that users are aware about the fact that your company provides high quality services and every time they see this image they will know that they can trust your products or services. We help you build a long lasting relationship between your business and your customers.</p>
             </a>
           </div>
         </div>
@@ -148,7 +147,7 @@
           <div class="uk-width-medium-1-3">
             <a class="uk-panel tm-panel-link" href="https://twitter.com/getuikit">
               <div class="tm-icon">
-                <i class="uk-icon-github-alt uk-icon-large"></i>
+                <i class="uk-icon-certificate uk-icon-large"></i>
               </div>
               <h2>Progressive Design</h2>
               <p>We’ve abandoned the traditional process of wireframes and Photoshop mockups. Responsive Web Design renders
@@ -161,22 +160,20 @@
           <div class="uk-width-medium-1-3">
             <a class="uk-panel tm-panel-link" href="https://github.com/uikit/uikit/issues">
               <div class="tm-icon">
-                <i class="uk-icon-github-alt uk-icon-large"></i>
+                <i class="uk-icon-arrows uk-icon-large"></i>
               </div>
-              <h2>More</h2>
-              <p>You want to take part in the development? Fork UIkit on GitHub and send us a pull request. To report a bug,
-                file a new issue.</p>
+              <h2>Functional Navigation</h2>
+              <p>Besides other visual effects, you have to make sure that users don’t get lost while using your app or site. At all times they need to know where they are and the next step required for the wanted activity. We use every instrument available to guide them toward the necessary steps they need to make for achieving their purpose. Finding the right balance between interactivity and simplicity is key, and we bear in mind that a tangled interface isn’t beneficial for any type of app or site.</p>
             </a>
           </div>
      
           <div class="uk-width-medium-1-3">
             <a class="uk-panel tm-panel-link" href="https://plus.google.com/communities/114238665434626719878">
               <div class="tm-icon">
-                <i class="uk-icon-google-plus uk-icon-large"></i>
+                <i class="uk-icon-hand-o-right uk-icon-large"></i>
               </div>
-              <h2>More</h2>
-              <p>If you're interested in discussing, participating and helping each other, the UIkit Google+ community is the
-                place to be.</p>
+              <h2>Onboarding</h2>
+              <p> If your users don’t understand the usability of your app or site, they are likely to abandon it. Therefore, from the moment users commence, we ensure that they know how to use it. We can use bespoke gestures, and related changes to make everything intuitive. If your app or site has to be explained then its not useful. So we pay close attention to this and avoid unecessary distractions, especially such as obtrusive pop ups.</p>
             </a>
           </div>
         </div>
@@ -436,7 +433,7 @@
               with WordPress, WooCommerce is the world's favorite eCommerce solution that gives both store owners and developers
               complete control. You can sell both physical and digital goods in all shapes and sizes, offer product variations,
               multiple configurations, and instant downloads to shoppers, and even sell affiliate goods from online marketplaces.
-              With endless flexibility and access to hundreds of WordPress extensions, WooCommerce powers over 30% of all
+              With endless flexibility and access to hundreds of WordPress extensions, WooCommerce powers over 39% of all
               online stores.</p>
           </div>
         </div>
@@ -552,7 +549,7 @@
           If you have any queries or just want to discuss project details for your business then get in touch right away. We will help you get started quiickly and we can help you capture the customers you may be missing out on!
         </p>
         <a href= "https://webmobapps.com/index.php/contact-us/" class="uk-button tm-button-custom" data-uikit-download>
-          <i class="fa fa-phone"></i> Get A Call</a>
+          <i class="fa fa-phone"></i> Learn More</a>
       </div>
     </div>
   </section>

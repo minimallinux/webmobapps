@@ -43,21 +43,21 @@
       <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Listed In App Stores</h2>
     <p>
-      Its a true down-loadable app, your Progressive Web App is available to download on both Apple and Android devices. It also works fine for any Desktop users you have. It is one of the few Progressive Web Apps which has been approved by Apple and Google for App store listing.
+      Its a true down-loadable app, your Progressive Web App is available to download on both Apple and Android devices. It also works fine for any Desktop users you have. It is one of the few Progressive Web Apps which has been approved by Apple and Google for App store listing. Mobiles apps are given preference in search returns for mobile devices.
     </p>
             </div>
             <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Custom Built</h2>
     <p>
-     The core functionality is fine tuned for your business or business model. Our developer will take your website or business model as a guide and it is customised to reflect the key aspects of your business.
+     The core functionality is fine tuned for your business or business model. Our developer will take your website or business model as a guide and it is customised to reflect the key aspects of your business. You are consulted for any changes throughout the process.
     </p>
             </div>
              <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>3 - 4 Week Build</h2>
     <p>
-    As all the functionality is already built, your App can be delivered in a short time, usually within 3 weeks. It is based on your Website or Business Model (if you dont have a website). You are assigned your own personal developer for the process, with 7 days free support to get up and running.
+   As all the functionality is already built, your App can be delivered in a short time, usually within 3 weeks. It is based on your Website or Business Model (if you dont have a website). You are assigned your own personal developer for the process, with 7 days free support to get up and running and tutorial videos available afterwards.
     </p>
             </div>
              <div class="uk-width-medium-1-4">
@@ -85,13 +85,13 @@
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Booking Software</h2>
     <p>
-     We can integrate booking software in to your app completely free. The software has a large range of features and functions and is manageable in a seperate interface to make changes at any time.
+       We can integrate booking software in to your app completely free. The software has a huge range of features and functions and is manageable in a seperate interface to make changes at any time. This also can save you a significant amount of money if you are already paying for booking software. Fully automated, with unlimited products, services and staff members, you can streamline your booking system to give you more time.
    </p>
             </div>
              <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Merchant Service</h2>
-    <p>We can integrate Merchant Services in to your app so you can take all forms of payment. If you aleady have a service we can use that or if you are a new business and need one we can recommend one of our partners. Other than the fees you normally pay it is completely free.
+    <p>We can integrate Merchant Services in to your app so you can take all forms of payment. If you aleady have a service we can use that or if you are a new business and need one we can recommend one of our partners. Other than the fees you normally pay it is completely free, with your customers able to pay via mobile if necessary.
     </p>
     </div> 
      <div class="uk-width-medium-1-4">
@@ -105,8 +105,7 @@
             <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Media Uploads</h2>
-    <p>
-    You can upload videos, audio or images in to the app and this is instantly updated for your users. Your users can directly access your content without having to visit a third party site.
+   You can upload videos, audio or images in to the app and this is instantly updated for your users. Your users can directly access your content without having to visit a third party site and the updates appear immediately.
     </p>
             </div>
              <div class="uk-width-medium-1-4">
@@ -120,41 +119,60 @@
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
     <h2>Instant Content</h2>
     <p>
-    Whenever you add new content, whether it is video, audio, special promotion, news, images etc, it appears instantly on your customers devices in real time. There is no need to mess with a web site or CMS and risk losing data.
+    You can add new content at any time without any special skills, whether it is video, audio, special promotion, news, images etc, it appears instantly on your customers devices in real time. There is no need to mess with a web site or CMS and risk losing data. This is a lot easier to manage than using a CMS or having someone do it for you.
     </p>
             </div> 
                   <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
-    <h2>Merchant Service</h2>
-    <p>We can integrate Merchant Services in to your app so you can take all forms of payment. If you aleady have a service we can use that or if you are a new business and need one we can recommend one of our partners. Other than the fees you normally pay it is completely free.
+    <h2>Custom Promotions</h2>
+    <p>You can create custom promotions at any time to send out to your subscribers. In a few clicks any new additions you have can be added and sent out immediately to all your customers. This is far quicker than any other form of advertising and costs you nothing to do!
     </p>
     </div> 
      <div class="uk-width-medium-1-4">
     <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
-    <h2>Social Media</h2>
+    <h2>Digital Magazines</h2>
     <p>
-    We can integrate your social media accounts and Googlemaps in to your app. Your main social media accounts are included and instantly accessible by users.
-    Additionally your website is linked and can be accessed with a single click.
+    You can create a Digital Magazine (or Blog) section which your users will see instantly in real time. Any news or information about your business is instantly accessible to them. You can create, for example, a weekly update about your business so they can be kept up to date. This is another way of staying in touch and increasing customer retention.
     </p>
             </div>
             <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
-    <h2>Media Uploads</h2>
+    <h2>Customer Support</h2>
     <p>
-    You can upload videos, audio or images in to the app and this is instantly updated for your users. Your users can directly access your content without having to visit a third party site.
+    You can create a customer support facility and use it in tandem with the push notification (unlimited) capabiliies of the app. So you can instantly respond to any queries or messages from customers. Again, this is far quicker than using email as these communications are seen (and opened) instantly in 95% of cases.
     </p>
             </div>
              <div class="uk-width-medium-1-4">
             <div class="tm-icon"><i class="uk-icon-tablet uk-icon-large"></i></div>
-    <h2>Works Offline</h2>
+    <h2>Custom Forms</h2>
     <p>
-    Users can access your content even if they are not online. Offline cache storage is used to enable users to access your content via service workers. Additionally your App on their device serves as a constant reminder of your business and helps prevent them going elsewhere for similar services.
+    You can create custom order (or any other type) forms if you have any special promotions or one-off offers. This is a lot easier to do via the Web based back office than using a CMS and is a lot quicker. You can add these at any time if whenevr you have any extra products or services which are not in your usual remit.
     </p>
             </div>      
           </div>
-   
         </div>
      </div>
+   <div class="tm-section tm-section-color-white">
+         <div class="uk-container uk-container-center uk-text-center jumbotron">
+          <h1 class="tm-margin-large-bottom">Below Are Some Statistics On Push Notifications.</h1>
+           <hr class="uk-divider">
+           <ul class="uk-list">
+            <li><p class="uk-text-large uk-text-lead">The average user checks their Smart Phone up to 150 times a day!.</p></li> 
+            <br />
+           
+    <li><p class="uk-text-large uk-text-lead" >65% of users return to an App within 30 days when push is enabled!</p></li>
+    <br />
+    <li><p class="uk-text-large uk-text-lead" >Push notifications boost App engagement by 88%!</p></li>
+    <br />
+     <li><p class="uk-text-large uk-text-lead" >Push notification boost App retention rates 200%!</p></li>
+     <br />
+    <li><p class="uk-text-large uk-text-lead" >Push notifications nudge them to launch the App, so improve the user retention rates as well!</p></li>
+    <br />
+       <li><p class="uk-text-large uk-text-lead" > Research shows that 95% of Push notifications are opened within 5 minutes of being sent!</p></li>
+       <br />
+</ul>
+</div>
+  </div>  
 <div class="tm-section tm-section-color-white">
          <div class="uk-container uk-container-center uk-text-center">
           <h1 class="tm-margin-large-bottom">Check Out Our Short Video Below</h1>
@@ -172,7 +190,7 @@
         <p class="uk-text-large uk-text-lead">
          Just enter your details and select the standard package and Mobile App option. One of our team will get back to you with more information and how to order.!
        </p>
-       <a href="https://webmobapps.com/index.php/contact-us/" class="uk-button tm-button-custom" data-uikit-download><i class="fa fa-phone"></i> Get A Call</a>
+       <a href="https://webmobapps.com/index.php/contact-us/" class="uk-button tm-button-custom" data-uikit-download><i class="fa fa-phone"></i> Learn More</a>
      </div>
      </div>    
 </section>

@@ -20,24 +20,23 @@
        </div>
        <div class="tm-section tm-section-color-white">
             <div class="uk-container uk-container-center uk-text-center">
-            <h1 class="tm-margin-large-bottom">Even More About Us!</h1>
+            <h1 class="tm-margin-large-bottom">A Look At Our Approach To Online App Building.</h1>
              <hr class="uk-divider">
-            <p class="uk-text-medium" >.<br /><br />
-          Smartphones are replacing laptops and PC's and apps are replacing many websites. We can custom build a Progressive Web Application for your business which is made available in both app stores for your customers to download.
-          It has a huge list of features including free unlimited Push Notifications, free Booking Software, free Merchant Service Integration, Web Based back-office for management and much more!<br /><br />
+            <p class="uk-text-medium">
+          Smartphones are replacing laptops and PC's and apps are replacing many websites. Only around 15% of small businesses have any capabilities online to service the huge increase in mobile enquiries. <br /><br />
            Progressive Web Apps are the next generation for Mobile Web and our turkey app has been developed over a 3 year period with this in mind. It is built specifically for small businesses on a budget and enables them to compete online without having to incur heavy costs!<br /><br />
            Many businesses pay ongoing fees for services such as SEO, Web Site Maintainance, Booking Software, Text Messaging and other services. Our application can include all these completely free in addition to many other features, all for a small one-off payment, with no monthly fees, no third party advertising or other hidden costs!<br /><br />
           Silent Salesman is a Progressive Web Application for small businesses based on Web 3.0 technologies. Offline and Online modes with a Web Based CMS for input management. Approved by Apple and Google for App store listing with other download methods available. Windows Phone functionality also.<br /><br />
           A Huge range of features and benefits ensures that your business in ranked well for mobile device searches online. A 3 -4 week build time with no painful testing or development failures. A personal developer is assigned to the build process with a top quality control system in place.<br />
           </p>
-          <h3 class="uk-heading">Below are a few of the features of our Custom Built Progressive Web App.</h3>
+          <h3 class="uk-heading">Below is a short summary on the importance of Smartphone internet usage..</h3>
         </div>
        </div>
       <div class="tm-section tm-section-color-white">
          <div class="uk-container uk-container-center uk-text-center">
-          <h1 class="tm-margin-large-bottom">Check Out Our Short Video Below</h1>
+          <h1 class="tm-margin-large-bottom">Check Out The Short Video Below</h1>
            <hr class="uk-divider">
-            <p class="uk-text-large uk-text-lead">A Look At How Smartphones Are Being Used To Access Businesses And Organizations Content. 
+            <p class="uk-text-large uk-text-lead">A Look At How Smartphones Are Being Used To Access Businesses And Organizations Content.</p>
             <div class="uk-width-large videoWrapper">  
                <iframe width="560" height="315" src="https://www.youtube.com/embed/CRN9QBO1nqA?wmode=transparent" scrolling="no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>

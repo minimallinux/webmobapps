@@ -497,7 +497,7 @@ margin-top: 4.8em;
     right: -1px;
     left: -1px;
     bottom: -1px;
-    background: #607D8B;
+    background: #363636;
 }
 
 .tm-panel-link:hover:after {
@@ -505,7 +505,7 @@ margin-top: 4.8em;
 }
 
 .tm-panel-link:hover h2 {
-    color: #607D8B;
+    color:  #37474F;
 }
 /* Only phones */
 
@@ -515,14 +515,14 @@ margin-top: 4.8em;
 /*Change color of icons*/
 
 .tm-icon {
-    font-size: 20px;
+    font-size: 19px;
     position: relative;
-    width: 100px;
+    width: 90px;
     margin: -60px auto 0 auto;
-    border: 0.15rem solid  #607D8B;
+    border: 0.15rem solid #363636;
     border-radius: 50px;
-    background: #607D8B;
-    line-height: 100px;
+    background: #363636;
+    line-height: 90px;
     color: #fff;
 }
 
